@@ -1,2 +1,2 @@
-it is ready 
-for pull to local
+code to install java
+code to install c++
